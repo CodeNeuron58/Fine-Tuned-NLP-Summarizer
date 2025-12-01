@@ -9,3 +9,4 @@ reports/
 venv
 /data
 notebooks/samsum_dataset
+.venv
