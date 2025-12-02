@@ -1,0 +1,5 @@
+data_ingestion:
+  dataset: "knkarthick/samsum"
+  data_path: "artifacts/data_ingestion"
+
+
